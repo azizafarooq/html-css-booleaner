@@ -1,14 +1,47 @@
+body{
+    margin: 0;
+}
+
 header{
     background-color: blue;
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    height: 180px;
+}
+
+.logo{
     width: 20%;
 }
 
-body{
-    margin: 0;
+h1{
+    font-size: 60px;
+}
+
+.referenza{
+    color: gray;
+    font-size: 20px;
+}
+#referenzanome{
+    color: blue;
+}
+
+.data{
+    color: gray;
+}
+
+figure{
+    margin-left: 0;
+}
+
+.testo{
+    font-size: 20px;
+
+}
+
+#testo-evidenziato{
+    background-color: yellow;
 }
 
 td{
     width: 30%;
 }
-
-thead{
