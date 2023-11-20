@@ -11,15 +11,19 @@ header{
 
 .logo{
     width: 20%;
+    padding-top: 5%;
 }
 
 h1{
     font-size: 60px;
+    margin-bottom: 5px;
 }
 
 .referenza{
     color: gray;
     font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 0px;
 }
 #referenzanome{
     color: blue;
@@ -27,12 +31,22 @@ h1{
 
 .data{
     color: gray;
+    margin: 0px;
 }
 
 figure{
     margin-left: 0;
+    padding-bottom: 0px;
 }
 
+figcaption{
+    padding:0px;
+    
+}
+.didascalia{
+    padding:0px;
+    margin: 0px;
+}
 .testo{
     font-size: 20px;
 
@@ -42,6 +56,10 @@ figure{
     background-color: yellow;
 }
 
+.lista{
+    padding-left: 20px;
+    font-size: 18px;
+}
 td{
     width: 30%;
 }
