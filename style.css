@@ -52,7 +52,7 @@ figcaption{
 
 }
 
-#testo-evidenziato{
+.testo-evidenziato{
     background-color: yellow;
 }
 
@@ -60,6 +60,21 @@ figcaption{
     padding-left: 20px;
     font-size: 18px;
 }
+
+th{
+   background-color: blue;
+   color: white;
+}
+.tabella1{
+    background-color: aqua;
+}
+.tabella2{
+    background-color: white;
+}
 td{
     width: 30%;
+}
+.footer{
+    color: gray;
+    font: 20px;
 }
