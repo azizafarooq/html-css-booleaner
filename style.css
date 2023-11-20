@@ -78,3 +78,23 @@ td{
     color: gray;
     font: 20px;
 }
+
+.foto1{
+    background-image: url(img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+    background-repeat:no-repeat;
+    color: white;
+    font-style: bold;
+    margin: 2px;
+}
+
+.foto2{
+    background-image: url(img/graph.jpg);
+    width: 312px;
+    height: 208px;
+    background-repeat:no-repeat;
+    color: white;
+    font-style: bold;
+    margin: 2px;
+}
